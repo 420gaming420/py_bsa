@@ -1,0 +1,6 @@
+# Runtime dependencies
+# pytest for testing
+pytest>=7.0
+pytest-cov>=4.0
+# LZ4F compression support for SSE (Skyrim SE/AE) archives
+lz4>=1.0
